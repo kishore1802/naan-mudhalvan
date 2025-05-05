@@ -1,0 +1,9 @@
+# Uncomment and run this cell if you're on Colab or Kaggle
+# !git clone https://github.com/nlp-with-transformers/notebooks.git
+# %cd notebooks
+# from install import *
+# install_requirements(is_chapter2=True)
+
+# hide
+from utils import *
+setup_chapter()
